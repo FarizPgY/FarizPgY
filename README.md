@@ -7,6 +7,7 @@
   learning path <strong>Machine Learning</strong>
 </p>
 
+<p><h1>Github Statistic</h1></h1></p>
 <p align="left">
 <a href="https://github.com/penuliscode">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FarizPgY&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
