@@ -2,7 +2,6 @@
 
 <p>Perkenalkan nama saya <strong>Muhammad Maulana Fathurizqi</strong>.<br>
   Saya adalah seorang mahasiswa di <strong>UIN Sunan Kalijaga Yogyakarta</strong><br>
-  dengan jurusan <strong>Pendidikan Matematika</strong>.<br>
 </p>
 
 <p><h3>Github Statistic</h3></p>
